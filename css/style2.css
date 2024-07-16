@@ -1,0 +1,15 @@
+/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+.TestClass {
+	color: Black;
+	background-color: Cream;
+	text-align: left;
+}
+
+Background {
+	color: cream;
+}
